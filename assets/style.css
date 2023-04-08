@@ -1,0 +1,10 @@
+header{
+    display:flex;
+    justify-content:space-between;
+    font-size:21px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#scoresBtn{
+    color:rgb(189, 43, 226);
+}
