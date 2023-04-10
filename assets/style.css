@@ -27,6 +27,14 @@ main *{
     vertical-align: middle;
 }
 
+#Title{
+    font-size:38px;
+}
+
+#Prompt{
+    font-size:25px;
+}
+
 button{
     border-radius:8px;
     background-color: rgb(74, 17, 128);
