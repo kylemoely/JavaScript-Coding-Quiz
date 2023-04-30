@@ -43,3 +43,13 @@ button{
     color:white;
     cursor:pointer;
 }
+
+#Next{
+    float:right;
+    display:none;
+}
+
+.answer{
+    display:none;
+    min-width: 225px;
+}
